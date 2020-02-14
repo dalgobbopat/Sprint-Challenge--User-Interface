@@ -293,3 +293,123 @@
                 margin-bottom: 20px;
                 border-bottom: 1px dashed black;
             }
+            
+            .first-section {
+                display: flex;
+                justify-content: space-evenly;
+                flex-direction: row;
+                width: 500px;
+                margin: 0 auto;
+            }
+            
+            .top-section {
+                display: flex;
+                justify-content: space-evenly;
+                flex-direction: row;
+                width: 500px;
+                margin: 0 auto;
+            }
+            
+            .interactive-strategy {
+                width: 600px;
+                border: 2px solid white;
+            }
+            
+            .how-work {
+                width: 600px;
+                border: 2px solid white;
+            }
+            /* .last-section {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-evenly; */
+            
+            .pt {
+                width: 600px;
+                border: 2px solid white;
+            }
+            
+            .st {
+                width: 600px;
+                border: 2px solid white;
+            }
+            
+            .last-section {
+                display: flex;
+                justify-content: center;
+            }
+            
+            .section-last {
+                width: 200px;
+            }
+            
+            .section-last .guy {
+                margin-left: 30%;
+            }
+            
+            button {
+                padding: 15px 32px;
+            }
+            
+            .ending {
+                padding-top: 20px;
+            }
+            
+            .container-bottom {
+                border: 1px solid white;
+                padding: 10px;
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+                margin-bottom: 20px;
+            }
+            
+            .bottom-content p {
+                width: 900px;
+            }
+            
+            .interactive-strategy h3 {
+                margin-left: 30%;
+            }
+            
+            .interactive-strategy img {
+                margin-left: 30%;
+            }
+            
+            .interactive-strategy p {
+                margin-left: 30%;
+                width: 370px;
+            }
+            
+            .interactive-strategy button {
+                margin-left: 30%;
+            }
+            
+            .how-work img {
+                margin-left: 12%;
+            }
+            
+            .how-work h3 {
+                margin-left: 12%
+            }
+            
+            .how-work {
+                width: 400px:
+            }
+            
+            .how-work p {
+                margin-left: 12%;
+                width: 400px;
+            }
+            
+            .how-work button {
+                margin-left: 12%;
+            }
+            
+            .section-last img {
+                margin-left: 100%;
+            }
+            
+            .section-last h3 {
+                margin-left: 35%
+            }
